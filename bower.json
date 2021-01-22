@@ -1,0 +1,20 @@
+{
+  "name": "easyb2b-ng-modelizer",
+  "version": "0.1.8",
+  "authors": [
+    "Pratik Jaguwala <pratik.jaguwala@ezyb2b.com>"
+  ],
+  "main": "dist/easyb2b-ng-modelizer.js",
+  "ignore": [
+    "node_modules",
+    "components"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "1.4.7"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.7"
+  }
+}

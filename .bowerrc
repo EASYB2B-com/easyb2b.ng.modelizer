@@ -1,0 +1,10 @@
+{
+    "directory": "bower_components",
+    "registry": {
+        "search": [
+            "https://www.myget.org/F/pj/bower/",
+            "https://bower.herokuapp.com"
+        ],
+        "register": "https://www.myget.org/F/pj/bower/"
+    }
+}
